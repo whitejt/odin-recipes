@@ -10,7 +10,6 @@ This project demonstrates how to create a static recipe page using HTML and CSS.
 
 - Basic structure using HTML5
 - Styled with CSS
-- Responsive design (optional, if you implemented it)
 
 ## Technologies Used
 
